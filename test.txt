@@ -1,0 +1,3 @@
+Hello there,
+	I am testing how to add file to current branch in git repository and then commit.
+	Adding something.
